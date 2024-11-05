@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oxacuani.github.io/EGg/sitemap_index.txt
+Sitemap: https://oxacuani.github.io/ZhU/sitemap_index.txt
+Sitemap: https://oxacuani.github.io/iWM/sitemap_index.txt
+Sitemap: https://oxacuani.github.io/tng/sitemap_index.txt
